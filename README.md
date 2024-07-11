@@ -24,8 +24,8 @@ We use the following OOD datasets for evaluation:
 [iSUN](https://www.dropbox.com/s/ssz7qxfqae0cca5/iSUN.tar.gz),
 [Texture](https://www.robots.ox.ac.uk/~vgg/data/dtd/), 
 SVHN,
-[SUN] (https://pages.cs.wisc.edu/~huangrui/imagenet_ood_dataset/), and
-[iNaturalist] (https://pages.cs.wisc.edu/~huangrui/imagenet_ood_dataset/)
+[SUN](https://pages.cs.wisc.edu/~huangrui/imagenet_ood_dataset/), and
+[iNaturalist](https://pages.cs.wisc.edu/~huangrui/imagenet_ood_dataset/)
 
 Please put all downloaded OOD datasets into `./dataset/ood_data/`.
 
