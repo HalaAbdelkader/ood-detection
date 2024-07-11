@@ -13,7 +13,7 @@ We investigate the effectiveness of the max-logit-based approach for OOD detecti
 
 #### In-distribution dataset
 
-Please download CIFAR10, CIFAR100 and [ImageNet-1k] (https://www.image-net.org/challenges/LSVRC/2012/index) and place the validation data in `./dataset/id_data/`.  
+Please download CIFAR10, CIFAR100 and [ImageNet-1k](https://www.image-net.org/challenges/LSVRC/2012/index) and place the validation data in `./dataset/id_data/`.  
 
 #### Out-of-distribution dataset
 
