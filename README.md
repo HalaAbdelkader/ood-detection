@@ -1,7 +1,7 @@
 # Logits: The Key to Effective OOD Detection
 
 This is the source code for our paper:
-[Logits: The Key to Effective OOD Detection]
+[A Comparative Study for Effective OOD Detection]
 
 Code is modified from [GradNorm](https://github.com/deeplearning-wisc/gradnorm_ood)
 
