@@ -1,4 +1,4 @@
-# Logits: The Key to Effective OOD Detection
+# A Comparative Study for Effective OOD Detection
 
 This is the source code for our paper:
 [A Comparative Study for Effective OOD Detection]
