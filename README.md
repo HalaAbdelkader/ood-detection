@@ -1,7 +1,7 @@
-# A Comparative Study for Effective OOD Detection
+# Robustness in ML-enabled Systems: A Comparative Study of Out-of-Distribution Detection Methods
 
 This is the source code for our paper:
-[A Comparative Study for Effective OOD Detection]
+[Robustness in ML-enabled Systems: A Comparative Study of Out-of-Distribution Detection Methods]
 
 Code is modified from [GradNorm](https://github.com/deeplearning-wisc/gradnorm_ood)
 
