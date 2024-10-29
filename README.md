@@ -5,7 +5,7 @@ This is the source code for our paper:
 
 Code is modified from [GradNorm](https://github.com/deeplearning-wisc/gradnorm_ood)
 
-We investigate the effectiveness of the max-logit-based approach for OOD detection. The primary objective is to demonstrate that by utilising the model logits alone, we can achieve comparable performance to more complex OOD detection techniques. 
+We provide a comparative analysis of various OOD detection techniques, assessing their performance across different datasets and model architectures.
 
 ## Usage
 
